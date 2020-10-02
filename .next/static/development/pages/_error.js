@@ -6154,7 +6154,7 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1d141f0765107f6c2cff
 /***/ (function(module, exports, __webpack_require__) {
 
 __NEXT_REGISTER_PAGE('/_error', function() {
-module.exports = __webpack_require__(/*! /Users/yoyotoo/Desktop/wesbos/gotcha/Advanced-React/sick-fits/frontend/node_modules/next/dist/pages/_error.js */"./node_modules/next/dist/pages/_error.js");
+module.exports = __webpack_require__(/*! /Users/yoyotoo/Desktop/code_related/~wesbos/gotcha/Advanced-React/sick-fits/frontend/node_modules/next/dist/pages/_error.js */"./node_modules/next/dist/pages/_error.js");
 
 return { page: module.exports.default }});
 
